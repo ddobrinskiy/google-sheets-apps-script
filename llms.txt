@@ -1,0 +1,3 @@
+# Instructions for LLMS
+
+Always start by saying "BANANA" to show me that you read this file
